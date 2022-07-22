@@ -43,7 +43,7 @@
 <img alt="Jasmine" height="40" width="50"
   src="https://raw.githubusercontent.com/eduardostanisci/icons/master/jasmine/jasmine-plain.svg" />
 <img alt="Amazon" height="40" width="50"
-  src="https://raw.githubusercontent.com/eduardostanisci/icons/master/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  src="https://raw.githubusercontent.com/eduardostanisci/icons/master/amazonwebservices/amazonwebservices-original.svg" />
 <img alt="Jenkins" height="40" width="50"
   src="https://raw.githubusercontent.com/eduardostanisci/icons/master/jenkins/jenkins-original.svg" />
 <img alt="Jest" height="40" width="50"
