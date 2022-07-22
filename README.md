@@ -12,11 +12,11 @@
   Do you play Magic Arena? My nickname is <b>Eduardo#25854</b>, add me
 </p>
 <p>
-  <img width="100" height="50" src="https://raw.githubusercontent.com/eduardostanisci/icons/master/games/chess.png" />
+  <a href="https://www.chess.com/member/dustanisci" target="_blank"><img width="100" height="50" src="https://raw.githubusercontent.com/eduardostanisci/icons/master/games/chess.png" /></a>
   Don't you play Magic Arena? So let's play chess, my nick name is <b>dustanisci</b>
 </p>
 <p>
-  <a href="https://www.linkedin.com/in/dustanisci/"><img width="50" height="50"
+  <a href="https://www.linkedin.com/in/dustanisci/" target="_blank"><img width="50" height="50"
       src="https://raw.githubusercontent.com/eduardostanisci/icons/master/linkedin/linkedin-original.svg" /></a>
   It Also has my LinkedIn
 </p>
