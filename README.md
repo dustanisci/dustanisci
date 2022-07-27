@@ -1,5 +1,5 @@
 ## <b>What's up! 😎</b>
-<img style="width: 70px; display: inline;"
+<img style="width: 70px"
   src="https://github.com/dustanisci/dustanisci/blob/main/005.9fd0d144.png?raw=true" />
 <p>Hi, my nickname is Edu. I'm a front-end developer since 2012.</p>
 <p>If have any questions about development, it's just call me 😉</p>
@@ -8,16 +8,16 @@
 
 ## Contact
 <p>
-  <img width="100" height="50" style="margin-right: 20px" src="https://raw.githubusercontent.com/eduardostanisci/icons/master/games/magic.png" />
+  <img width="100" height="50" src="https://raw.githubusercontent.com/eduardostanisci/icons/master/games/magic.png" />
   Do you play Magic Arena? My nickname is <b>Eduardo#25854</b>, add me
 </p>
 <p>
-  <a href="https://www.chess.com/member/dustanisci" target="_blank"><img width="100" height="50" style="margin-right: 20px" src="https://raw.githubusercontent.com/eduardostanisci/icons/master/games/chess.png" /></a>
+  <a href="https://www.chess.com/member/dustanisci" target="_blank"><img width="100" height="50" src="https://raw.githubusercontent.com/eduardostanisci/icons/master/games/chess.png" /></a>
   Don't you play Magic Arena? So let's play chess, my nick name is <b>dustanisci</b>
 </p>
 <p>
   <a href="https://www.linkedin.com/in/dustanisci/" target="_blank"><img width="50" height="50"
-      style="margin-right: 20px" src="https://raw.githubusercontent.com/eduardostanisci/icons/master/linkedin/linkedin-original.svg" /></a>
+      src="https://raw.githubusercontent.com/eduardostanisci/icons/master/linkedin/linkedin-original.svg" /></a>
   It Also has my LinkedIn
 </p>
 
