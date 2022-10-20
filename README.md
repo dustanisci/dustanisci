@@ -1,7 +1,7 @@
 ## <b>What's up! 😎</b>
 <img style="width: 70px"
   src="https://github.com/dustanisci/dustanisci/blob/main/005.9fd0d144.png?raw=true" />
-<p>Hi, my nickname is Edu. I'm a front-end developer since 2012.</p>
+<p>My nickname is Edu. I'm a front-end developer since 2012.</p>
 <p>If have any questions about development, it's just call me 😉</p>
 
 <br />
