@@ -28,7 +28,9 @@
   src="https://raw.githubusercontent.com/eduardostanisci/icons/master/javascript/javascript-plain.svg" />
 <img alt="React" height="40" width="50"
   src="https://raw.githubusercontent.com/eduardostanisci/icons/master/react/react-original.svg" />
-<img alt="Angular" height="40" width="50"
+  <img alt="NextJS" height="40" width="50"
+  src="https://raw.githubusercontent.com/eduardostanisci/icons/master/next/nextjs.png" />
+<img alt="Angular" height="40" width="40"
   src="https://raw.githubusercontent.com/eduardostanisci/icons/master/angularjs/angularjs-plain.svg" />
 <img alt="HTML" height="40" width="50"
   src="https://raw.githubusercontent.com/eduardostanisci/icons/master/html5/html5-original.svg" />
